@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Baby esta cansado
+title: Que hacer cuando el bebe esta cansado?
 date: 2020-02-15T04:17:21.640Z
 description: Ya es hora de acostarlo
 featuredpost: false
